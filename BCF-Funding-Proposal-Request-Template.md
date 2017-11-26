@@ -30,7 +30,7 @@
 
 **Budget:**
 
-[Insert an itemised list of the what must be paid for int he budget and a total.]
+[Insert an itemised list of the what must be paid for int he budget, a rough schedule when the funding is needed and a total of the required funding.]
 
 
 **Timeline:** 
