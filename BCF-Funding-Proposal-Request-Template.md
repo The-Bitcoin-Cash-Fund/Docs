@@ -28,6 +28,11 @@
 [Insert a list of resources required including; skills, manpower, knowledge, services, materials, connections]
 
 
+**Budget:**
+
+[Insert an itemised list of the what must be paid for int he budget and a total.]
+
+
 **Timeline:** 
 
 [Insert a project timeline here what will be happening when.]
