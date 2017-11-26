@@ -1,4 +1,4 @@
-#BCF Funding Proposal Request Template
+##BCF Funding Proposal Request Template
 
 **Project Name:** [Insert a project name here. Make sure it is unique and easy to refer to.]
 
