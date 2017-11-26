@@ -66,6 +66,7 @@
 
 ## BCF FPR Requirements
 
+- A completed FPR must be included as to a project's github repo as the first commit/PR as an md file. This will help guide the project, and anyone who joins it can quickly find out the most important information.
 - Any print media the BCF funds with either dimension over 40mm must have the BCF round logo on it somewhere.
 - Any print media the BCF funds with either dimension over 100mm must have the logos of our Tier 3 sponsors on it somewhere.
 - Any video projects the BCF funds must include the BCF Bitcoin Cash animation at the beginning or end of the video.
