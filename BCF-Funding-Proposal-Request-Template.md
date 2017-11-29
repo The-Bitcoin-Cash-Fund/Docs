@@ -1,55 +1,51 @@
 # ![BCF Logo Round Tiny](https://raw.githubusercontent.com/The-Bitcoin-Cash-Fund/Branding/master/BCF%20Symbol%20Round%20Tiny.png) BCF Funding Proposal Request Template
 
 
-**Project Name:** [Insert a project name here. Make sure it is unique and easy to refer to.]
+**Project Name:** Bitcoin Cash Field Office Detroit
+
+**Start Date:** 11/30/2017
 
 
-**Start Date:** [Insert the date that the github repo and gitter room was created]
+**Hashtag:** BCHDetroit
 
 
-**Hashtag:** [Insert a project hashtag that can used on social media to discuss the project.]
-
-
-**Name of BCF Gitter community room:** [Insert the name of the specific BCF Gitter community room created for the project.]
+**Name of BCF Gitter community room:** Bitcoin Cash Field office Detroit 
 
 
 **Stakeholders:** 
 
-[Insert the list of people initially involved in the project. Pseudonymous identities can be used also.]
+Bitdetroit team (Stephen Lacey, Tammmy Lacey, William O'kay, Renee Sparpanic)
 
 
 **Project Summary:** 
 
-[Insert a short summary (a paragraph or two) of the project]
+The Bitcoin Cash Field Office. This will give the BCH leadership a brick and mortar building in Detroit that can be used as a relay station for information. We will host bi-weekly events around the city to promote adoption and awareness, have a support number people can call, and be a physically approachable presence in the city. Being a proxy office we would receive our weekly marching orders from BCH leadership.
 
 
 **Resources:**
+Our resources include our team, our location, and the timing of the city of Detroit. 
+Our people include Team lead Stephen Lacey, who is a Microsoft Certified Proffesional doing I.T. work all over the city, including banks, real estate, and the Detroit Public Schools. He is also Co-founder of BitDetroit.com, a website dedicated to bringing Bitcoin adoption to the city. Tammy Lacey is an accountant, bookeeper and office support. William O'kay is a retired Air Force crew chief whos many years of service have turned him into a deadline meeting machine. He is the logistics mastermind. Renee Sparpanic is a field Tech. 
 
-[Insert a list of resources required including; skills, manpower, knowledge, services, materials, connections]
+Our Location is a tremendous resource. The city of Detroit, in an effort to revitalize itself, has become a tech startup haven. Detroit's best program, MotorCityMatch, will match any business dollar for dollar up to $100,000 to start a business in detroit, and keep it open for 2 years. Real estate in Detroit is cheap. Commercial buildings can be found for as low as $11,000. 
+
+This is the perfect time setup a field office in Detroit. The city has many grants and pilot programs launching now. There is an excitement in the air. Detroit is tangibly coming back alive with new busiunesses enetering the city every day. Bitcoin cash can tap into that excitement and prosper.
+
+
 
 
 **Budget:**
-
-[Insert an itemised list of the what must be paid for in the budget, a rough schedule when the funding is needed, and a total of the required funding.]
-
-
+Our budget is $100,000. This will allow the city to match us $100,000, for a total of $200,000. With the $200,000 budget we will buy a building, setup an office space for clients, plan events on a biweekly basis around the city, staff a support line, cold pitch merchants to accept BCH, and run a small mining setup. The mining allows us to demonstrate miners and the network to clients, and do our part for decentralization and network strength.
 **Timeline:** 
 
-[Insert a project timeline here what will be happening when.]
-
+The project will begin immediately.
 
 **Goals:**
 
-[Insert a list of clearly defined list of goals including: 
-    - who you want to reach, 
-    - how many people you want to reach, 
-    - where are the people you want to reach,
-    - why you want to reach them.]
-
+Our goal is to reach and serve every single person in and around metro Detroit. We want to be there when people see the Bitcoin Cash stickers, hoodies and evertisements and have questions. We have tremendous power to help dispel myths and fears about Bitcoin Cash as well as be able to visibly show its benefits. As a proxy field office, our direction would come from BCH leadership. With weekly reports and collaboration we will give feedback to the community about users needs and any issues that come up. Being the first ones to do this in Detroit we have an incredible opportunity to have 100% market share. Core does not have an office or a number you can call. We hope to be that number and office for Bitcoin Cash, under the supervision and leadership of the community. The city of Detroit is ready for Bitcoin Cash. Our merchants will be more willing to adopt it if there is a support center nearby. Our mayor has come out in support of cryptocurrencies in general, citing a desire to have transparency within the citie's budget and land records. Our goal is to stay operating for 2 years,
 
 **Other:**
 
-[Insert any other information that should be known about the project.]
+BitDetroit has been doing this in the city since 2016. We supported bitcoin, until the BCH fork. At that point we followed our clients wishes and began to promote Bitcoin Cash. BitDetroit has been on NPR radio's "Detroit Today" regarding BCH and cryptocurrency in general. We have a lot of high profile contacts, and a pulse on the city. Creating a Bitcoin Cash field office would open the flood gates. The time on this project would be 2 years, with performance being judged in real time, as merchants accept BCH in the city. Our weekly progress reports will help us stay true to vision, as well as adapt to future curcumstance.
 
 ## Use S.M.A.R.T Principles When writing the BCF FPR
 
