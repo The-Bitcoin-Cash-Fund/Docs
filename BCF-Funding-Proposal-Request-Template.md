@@ -4,13 +4,13 @@
 **Project Name:** [Insert a project name here. Make sure it is unique and easy to refer to.]
 
 
-**Start Date:** [Insert the date that the github repo and gitter room was created]
+**Start Date:** [Insert the date that the github repo and BCF Chat room was created]
 
 
 **Hashtag:** [Insert a project hashtag that can used on social media to discuss the project.]
 
 
-**Name of BCF Gitter community room:** [Insert the name of the specific BCF Gitter community room created for the project.]
+**Name of BCF Chat room:** [Insert the name of the specific BCF chat room created for the project.]
 
 
 **Stakeholders:** 
