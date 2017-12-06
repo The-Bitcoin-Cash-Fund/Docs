@@ -4,7 +4,7 @@
 - [ ] **1. Has the FPR been submitted correctly?**
   - [ ] A. Correctly titled?
   - [ ] B. Used the full FPR template?
-  - [ ] C. Pull request made to the BCF FPR repo?
+  - [ ] C. Pull request correctly made to the BCF FPR repo?
   
 - [ ] **2. Have all sections of the template been completed?**
   - [ ] A. Project Name
