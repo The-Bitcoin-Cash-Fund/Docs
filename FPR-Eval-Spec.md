@@ -2,9 +2,9 @@ FPR Evaluation Specification
 
 
 - [ ] **Has the FPR been submitted correctly?**
-- [ ] Correctly titled?
-- [ ] Used the full FPR template?
-- [ ] Pull request made to the BCF FPR repo?
+  - [ ] Correctly titled?
+  - [ ] Used the full FPR template?
+  - [ ] Pull request made to the BCF FPR repo?
 - [ ] **Have all sections of the template been completed?**
 - [ ] Project Name
 - [ ] Start Date
