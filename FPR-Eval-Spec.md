@@ -34,15 +34,11 @@
   - [ ] D. Realistic
   - [ ] E. Time-bound 
 
-- [ ] **8. Are the stakeholders providing volunteered time?**
-  - [ ] A. Are the stakeholders earning too much from from the project?
-  - [ ] B. Is the project just a pet project of the stakeholders to earn some money?
+- [ ] **8. Are the stakeholders realitically providing volunteered time?**
   
-
 - [ ] **9. What is the cost vs impact?**
-  - [ ] A. Cost.
-  - [ ] B. Impact.
-  - [ ] C. Cost/impact (new users, new businesses, social reach etc.)
+  
+  [*NOTES*]
   
 - [ ] **10. Has the FPR been accepted or denied?**
   - [ ] Accepted.
@@ -50,3 +46,4 @@
   
 - [ ] **11. If denied, what are the reasons for denial?**
 
+  [*NOTES*]
