@@ -34,7 +34,7 @@
   - [ ] D. Realistic
   - [ ] E. Time-bound 
 
-- [ ] **8. Are the stakeholders realitically providing volunteered time?**
+- [ ] **8. Are the stakeholders realistically providing volunteered time?**
   
 - [ ] **9. What is the cost vs impact?**
   
