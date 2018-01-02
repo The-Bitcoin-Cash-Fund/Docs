@@ -51,7 +51,8 @@
 
 [Insert any other information that should be known about the project.]
 
-## Use S.M.A.R.T Principles When writing the BCF FPR
+
+## Use S.M.A.R.T Principles When writing the BCF FRP
 
 **S** - **Specific** - Well defined. Clear to anyone that has a basic knowledge of the project
 
@@ -64,7 +65,7 @@
 **T** - **Time-bound** - Enough time to achieve the goal. Not too much time, which can affect project performance
 
 
-## BCF FPR Requirements
+## BCF FRP Requirements
 
 - A completed FPR must be included as to a project's github repo as the first commit/PR as an md file. This will help guide the project, and anyone who joins it can quickly find out the most important information.
 - Any print media the BCF funds with either dimension over 40mm must have the BCF round logo on it somewhere.
