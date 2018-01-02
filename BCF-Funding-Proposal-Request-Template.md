@@ -1,4 +1,4 @@
-# ![BCF Logo Round Tiny](https://raw.githubusercontent.com/The-Bitcoin-Cash-Fund/Branding/master/BCF%20Symbol%20Round%20Tiny.png) BCF Funding Proposal Request Template
+# BCF Funding Request Proposal Template
 
 
 **Project Name:** [Insert a project name here. Make sure it is unique and easy to refer to.]
@@ -51,7 +51,8 @@
 
 [Insert any other information that should be known about the project.]
 
-## Use S.M.A.R.T Principles When writing the BCF FPR
+
+## Use S.M.A.R.T Principles When writing the BCF FRP
 
 **S** - **Specific** - Well defined. Clear to anyone that has a basic knowledge of the project
 
@@ -64,9 +65,9 @@
 **T** - **Time-bound** - Enough time to achieve the goal. Not too much time, which can affect project performance
 
 
-## BCF FPR Requirements
+## BCF FRP Requirements
 
-- A completed FPR must be included as to a project's github repo as the first commit/PR as an md file. This will help guide the project, and anyone who joins it can quickly find out the most important information.
+- A completed FRP must be posted to yours.org inside the un-paid section with free comments.
 - Any print media the BCF funds with either dimension over 40mm must have the BCF round logo on it somewhere.
 - Any print media the BCF funds with either dimension over 100mm must have the logos of our Tier 3 sponsors on it somewhere.
 - Any video projects the BCF funds must include the BCF Bitcoin Cash animation at the beginning or end of the video.
